@@ -1,0 +1,2 @@
+(this.webpackJsonpreact=this.webpackJsonpreact||[]).push([[0],{11:function(t,e,n){"use strict";n.r(e);n(1);var c=n(3),r=n.n(c),s=n(4),i=n.n(s),o=(n(9),n(0));r.a.render(Object(o.jsx)("div",{children:Object(o.jsx)(i.a,{})}),document.getElementById("root"))},4:function(t,e){},9:function(t,e,n){}},[[11,1,2]]]);
+//# sourceMappingURL=main.958e37e5.chunk.js.map
